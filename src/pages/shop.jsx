@@ -113,7 +113,7 @@ function shop() {
                     $20
                   </Text>
                   <Text fontSize={'20px'} fontWeight={'500'}>
-                    $70 r{' '}
+                    $70 {' '}
                   </Text>
                 </Flex>
                 <Button mt={6} colorScheme="red">

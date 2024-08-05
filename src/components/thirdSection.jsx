@@ -7,7 +7,7 @@ function thirdSection() {
     <Flex
       flexDirection={'column'}
       my={14}
-      mx={{ base: '30px', md: '60px' }}
+      mx={{ base: '30px', md: '40px' }}
       justify={'center'}
       // flexWrap={'wrap'}
     >
